@@ -1,7 +1,9 @@
 # App displaying Simpsons-Quotes
 
-## Using Ajax with Axios Request 
+## using Ajax with Axios Requests 
 
 * [my Blogpost about this code among other things](https://dev.to/annequinkenstein/til-ajax-asynchronous-requests-with-fetch-and-axios-react-5bh8)
 
 * [this code deployed](https://annequinkenstein.github.io/simpsons-quote/)
+
+![displayed simpson-quote](https://github.com/AnneQuinkenstein/simpsons-quote/blob/master/image.jpg?raw=true)

@@ -4,4 +4,4 @@
 
 * [my Blogpost about this code among other things](https://dev.to/annequinkenstein/til-ajax-asynchronous-requests-with-fetch-and-axios-react-5bh8)
 
-* [this code](https://annequinkenstein.github.io/simpsons-quote/)
+* [this code deployed](https://annequinkenstein.github.io/simpsons-quote/)
